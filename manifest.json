@@ -1,0 +1,10 @@
+{
+  "framework-mbed-ton": [
+    {
+      "sha1": "f745009e50c493892a7ec01a8cf72d4be9188f27",
+      "system": "*",
+      "url": "https://raw.githubusercontent.com/iotontech/ioton-platformio/master/framework-mbed-ton-0.0.1.tar.gz",
+      "version": "0.0.1"
+    }
+  ]
+}
